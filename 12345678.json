@@ -1,5 +1,5 @@
 {
 "model": "model1",
 "pipeline_meta": {},
-"pipeline_version: {"schema":"schema1"}
+"pipeline_version": {"schema":"schema1"}
 }
